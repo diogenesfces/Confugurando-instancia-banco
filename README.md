@@ -1,4 +1,4 @@
-# Confugurando-instancia-banco
+# Configurando-instancia-banco
 **Resumo das lições aprendidas durante o desenvolvimento do lab Configurando instancias de Banco**
 
 O Microsoft Azure oferece diversas opções para hospedar e gerenciar bancos de dados na nuvem. A configuração de uma instância de banco de dados no Azure SQL Database, Azure Database for PostgreSQL, MySQL ou outros serviços é simples e escalável.</br>
